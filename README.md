@@ -15,7 +15,11 @@ Projeto desenvolvido em C para gerar gráficos de barras diretamente no terminal
 
 Compile o arquivo `gerador_de_graficos.c` utilizando um compilador C.
 
-Exemplo:
+Exemplo: `gcc gerador_de_graficos.c -o gerador_de_graficos`
 
-```bash
-gcc gerador_de_graficos.c -o gerador_de_graficos
+Depois execute o programa pelo terminal.
+
+## Tecnologias
+
+- C
+- GCC
